@@ -37,3 +37,7 @@ $ sdk install maven
 $ sdk install gradle
 ```
 
+## IntelliJ IDEA Community Edition
+In order to install IntelliJ IDEA, you will first need to navigate to jetbrains.com/idea. From here, you can click on the “Download” button, and you’ll be redirected to the download page.
+
+You’ll be provided with two available editions to download: The free Community edition and the paid Ultimate edition. We’ll be installing the Community edition.
