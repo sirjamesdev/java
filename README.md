@@ -34,6 +34,7 @@ $ sdk use java <version>
 ### Installing other tools
 ```
 $ sdk install maven
+$ mvn -version
 $ sdk install gradle
 ```
 
